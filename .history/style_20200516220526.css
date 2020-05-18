@@ -1,0 +1,8 @@
+header .container-fluid {
+  background-image: url("image/pikachu.png");
+}
+
+img {
+  height: 150px;
+  width: 150px;
+}
