@@ -23,12 +23,3 @@ header .container-fluid {
 .color {
   background-color: aqua;
 }
-
-.center {
-  text-align: center;
-  margin-top: 10px;
-}
-
-.margin {
-  margin: 10px;
-}

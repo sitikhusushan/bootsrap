@@ -17,18 +17,4 @@ header .container-fluid {
   background-image: url("image/1013808.jpg");
   height: auto;
   width: auto;
-  color: aliceblue;
-}
-
-.color {
-  background-color: aqua;
-}
-
-.center {
-  text-align: center;
-  margin-top: 10px;
-}
-
-.margin {
-  margin: 10px;
 }

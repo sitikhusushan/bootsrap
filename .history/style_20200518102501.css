@@ -19,16 +19,3 @@ header .container-fluid {
   width: auto;
   color: aliceblue;
 }
-
-.color {
-  background-color: aqua;
-}
-
-.center {
-  text-align: center;
-  margin-top: 10px;
-}
-
-.margin {
-  margin: 10px;
-}
